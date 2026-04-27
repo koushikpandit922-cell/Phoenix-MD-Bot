@@ -1,10 +1,10 @@
 on:
   push:
     branches:
-      - main
+      - Phoenix~VelocityBanish
   pull_request:
     branches:
-      - main
+      - Phoenix~VelocityBanish
 
 jobs:
   build:
